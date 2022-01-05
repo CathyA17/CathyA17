@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CathyA17.
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning CS50's introduction to computer science.
+- 🌱 I’m currently learning in gymnasium and in Harvard online course CS50's introduction to computer science.
 - 💞️ I’m looking to collaborate with everyone.
 - 📫 How to reach me: alevcathy@gmail.com
 
